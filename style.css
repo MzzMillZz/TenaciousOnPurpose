@@ -4,9 +4,13 @@
 }
 
 body {
+    color:#341773;
     font-family: Impact,Charcoal, sans-serif;
     padding: 20px;
     background: #0A9DA2;
+}
+.serif {
+  font-family: "Times New Charcoal", Times, serif;
 }
 
 /* Header/Blog Title */
